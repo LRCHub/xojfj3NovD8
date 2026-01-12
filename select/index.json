@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "じゃあ君の思想が死ねばいい",
+  "base_artist": "椎乃味醂",
+  "createdAt": "2026-01-12T15:54:33.241483Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "じゃあ君の思想が死ねばいい",
+      "artist": "椎乃味醂",
+      "has_synced": false,
+      "path": "select/pl_01_じゃあ君の思想が死ねばいい_椎乃味醂.txt"
+    }
+  ]
+}
